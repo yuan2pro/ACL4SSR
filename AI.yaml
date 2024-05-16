@@ -7,3 +7,4 @@ payload:
 - DOMAIN,gemini.google.com
 - DOMAIN-SUFFIX,claude.ai
 - DOMAIN-SUFFIX,anthropic.com
+- DOMAIN-SUFFIX,chatgpt.com
